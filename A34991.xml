@@ -1,0 +1,514 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle of tender love and brotherly advice to all the churches of Christ throughout the world who are gathered into the one living faith, and walk in the light, and therein have their fellowship one with another. From a friend and brother in the same fellowship, who hath long travailed, and still travails for Zion's prosperity, and for the gathering Zion's children out of Egypt and darkness, that they may walk and dwell in the light of Zion's Saviour, which is Christ the Lord; whose outward name is Stephen Crisp.</title>
+            <author>Crisp, Stephen, 1628-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34991</idno>
+            <idno type="STC">Wing C6929</idno>
+            <idno type="STC">ESTC R215184</idno>
+            <idno type="EEBO-CITATION">99827139</idno>
+            <idno type="PROQUEST">99827139</idno>
+            <idno type="VID">31555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31555)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1846:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle of tender love and brotherly advice to all the churches of Christ throughout the world who are gathered into the one living faith, and walk in the light, and therein have their fellowship one with another. From a friend and brother in the same fellowship, who hath long travailed, and still travails for Zion's prosperity, and for the gathering Zion's children out of Egypt and darkness, that they may walk and dwell in the light of Zion's Saviour, which is Christ the Lord; whose outward name is Stephen Crisp.</title>
+                  <author>Crisp, Stephen, 1628-1692.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by A. Sowle, at the Crooked-Billet in Holloway-Lane, in Shoreditch,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31555:1"/>
+            <pb facs="tcp:31555:1" rendition="simple:additions"/>
+            <p>AN EPISTLE OF TENDER LOVE AND Brotherly Advice To all the <hi>Churches of Chriſt</hi>
+Throughout the World; Who are gathered into the one Living Faith, and walk in the Light, and
+therein have their Fellowſhip one with another. =From a Friend and Brother in the ſame
+Fellowſhip, who hath long Travailed, and ſtill Travails for <hi>Zion's</hi> Proſperity, and
+for the gathering <hi>Zion's</hi> Children out of <hi>Egypt</hi> and Darkneſs, that they may walk
+and dwell in the Light of <hi>Zion's</hi> Saviour, which is Chriſt the Lord; Whoſe outward Name
+is <hi>Stephen Criſp.</hi>
+            </p>
+            <p>Printed and Sold by <hi>A. Sowle,</hi> at the <hi>Crooked-Billet</hi> in <hi>Holloway-Lane,</hi>
+in <hi>Shoreditch,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31555:2"/>
+            <pb n="3" facs="tcp:31555:2"/>
+            <head>An Epiſtle of Tender Love and Brotherly Advice to all the Churches of Chriſt throughout
+the World, <hi>&amp;c.</hi>
+            </head>
+            <p>DEarly beloved <hi>Friends</hi> and <hi>Brethren,</hi> gathered out of the World by the Eternal
+Arm and Power of the mighty God, to bear his holy Name in your Generation; my Love and Life in the
+fellowſhip of the Univerſal Spirit ſalutes you all, and my Prayer to God is, you may be kept
+ſtedfaſt and unmove<g ref="char:EOLhyphen"/>able in the Grace of God, and in the Communion of his holy Spirit, that ye
+may bring forth Fruit in abundance, according to the abun<g ref="char:EOLhyphen"/>dant Mercy and Grace beſtowed upon you,
+to the Glory of God, and to your mutual Joy, Comfort and Edification.</p>
+            <p>And that you may ſo do, let your Eye be kept daily to the Lord, and behold and take notice of
+the wondrous Works that he hath wrought in you, and for you, ſince the Day ye were firſt
+quickened by his <hi>immortal Word,</hi> and ſtirred up to ſeek after him, and to wait upon
+him; how good and gracious he hath been to you, in bringing you from the barren Mountains, where
+your Souls-lan<g ref="char:EOLhyphen"/>guiſhed for the heavenly nouriſhment, where you knew not the Lord, nor one
+another, but were without a Comforter, or any to ſympathize with you in your Mournings: Oh, how
+hath he pittied your Groanings, and had Compaſſion on your Sighings; and brought you into
+acquaintance with thoſe that were in the like Exerciſes; and then he taught you to believe on
+him that was able to help you: And thoſe that were thus taught of the Father, and felt his
+draw<g ref="char:EOLhyphen"/>ing Cords of Love prevailing upon them; theſe came to Chriſt their Saviour, and in him
+began to feel a Unity one with another, in the Faith you had received in him; whereby you believed
+he would give you of his Spirit to teach and guide you in the way of Truth, Righteouſneſs and
+Peace; and thus was the Foundation of your Holy Communion laid, and a lively hope raiſed in each
+particular Soul, that he that had begun this bleſſed Work would carry it on;
+<pb n="4" facs="tcp:31555:3"/>and this Hope made you that ye were not aſhamed to make a publick
+profeſſion of his Name before the World, but cheerfully to take up his Croſs, and deny your
+ſelves of your former Pleaſures, Friend<g ref="char:EOLhyphen"/>ſhips and Delights of this world; this Hope hath been
+your ſupport in many ſharp Tryals, and bitter Combates you have had with the Enemy of your
+Soul's peace within, and with the Enemies of God's holy Way and Truth without; and in all your
+Conflicts you have found him nigh at hand, to put forth his Power on your behalf, as you have
+depended upon him for his aſſiſtance; and by theſe Expe<g ref="char:EOLhyphen"/>riences of his goodneſs your
+Faith hath been ſtrengthened; and by the ſame <hi>Word of Life</hi> that quickened you, many
+more have been reached unto, ſo that you have ſeen a daily addition of ſtrength in the
+perticular, and alſo an addition to your number, to your great Comfort and Incouragement; and
+many have come to wait upon the Lord among you, and many are daily Inquiring after the Way to
+<hi>Zion,</hi> with their Faces thitherward: Theſe things are worth your Remembrance, and
+ſerious Conſiderations, that you may look upon theſe great Mercies, as obligations upon your
+Souls to walk humbly before the Lord, and to be devout and fervent in your Teſtimony, for that
+God that hath done thus great things for you.</p>
+            <p>And <hi>Friends,</hi> conſider of the great Works that this mighty Arm of the Lord hath
+brought to paſs in the general, as well as in the particular; how many Contrivances have been
+framed, and Laws and Decrees made to lay you waſte, and to make you ceaſe to be a People, and
+how have the Wicked rejoyced thereat (for a ſeaſon) crying, <hi>Ah, ha; thus would we have it;
+they are all now given up to Ba<g ref="char:EOLhyphen"/>niſhments, to Impriſonments, to Spoils and Ruins; now let us
+ſee if that Inviſible Arm they truſt in can deliver them.</hi> Oh Friends! how hath your God
+been your ſupport in the midſt of all theſe Exerciſes? and when he hath pleaſed, how hath
+he quieted the ſharpeſt Storms, and turned back the greateſt Floods and Torrents of
+Perſecution that ever you met; and how hath he confounded his and your Ene<g ref="char:EOLhyphen"/>mies, and brought
+Confuſion upon the Heads of them that ſought your hurt: Was not theſe things wrought by the
+Power of God? Did your Number, your Policy, your Intereſt, or any thing that might be called your
+own, contribute any thing to theſe your great Pre<g ref="char:EOLhyphen"/>ſervations and Deliverances? If not, then let
+God have the Glory, and Acknowledge to his praiſe, Theſe have been the Lord's doings, and are
+marvellous in our Eyes.</p>
+            <pb n="5" facs="tcp:31555:3"/>
+            <p>Again, <hi>Dear Friends,</hi> conſider how the Wicked One hath wrought in a Myſtery among
+your ſelves, to ſcatter you, and to lay you waſte from being a People as at this Day; how
+many ſeveral ways hath he tryed, raiſing up men of perverſe minds, to ſubvert, and to turn
+you from the Faith, and from the Simplicity that is in Chriſt Jeſus our Lord, and to ſeparate
+you from that Inviſible Power that hath been your ſtrength, and to ſeperate you one from
+another; and by ſubtile Wiles, to lead into a falſe Liberty above the Croſs of Chriſt; and
+ſometimes by ſowing Seeds of <hi>Hereſie</hi> and <hi>Seditions,</hi> indeavouring to corrupt
+the minds of whom they could with per<g ref="char:EOLhyphen"/>nicious Principles; but Oh, how have their deſigns been
+fruſtrated, and the Author's thereof confounded and brought to nought; and how have you been
+preſerved as a Flock under the hand of a careful Shepherd, even unto this day, which miniſters
+great cauſe of Thanks<g ref="char:EOLhyphen"/>giving unto all the Faithful, who have witneſſed the working of this
+preſerving Power in their own particulars.</p>
+            <p>Alſo, <hi>My Friends,</hi> it is worth your Conſiderations, to behold how that by this
+Inviſible Power ſo many faithful Watch-men are raiſed up upon the Walls of your
+<hi>Zion,</hi> that in moſt of your Meet<g ref="char:EOLhyphen"/>ings there be Men and Women, upon whom God hath laid a
+con<g ref="char:EOLhyphen"/>cern, to be taking care for the good of the whole, and to take the overſight upon them, to
+ſee all things kept in good and decent Order, and to make due Proviſion, for the Comforting and
+Relieving the Neceſſities of the Needy and Diſtreſſed, that nothing be lacking to make
+your way comfortable; and theſe have not been, nor are brought under this charge by any act of
+yours, but God hath rai<g ref="char:EOLhyphen"/>ſed up <hi>Paſtors</hi> and <hi>Teachers, Elders</hi> and
+<hi>Deacons</hi> of his own Election and Choice, and bowed their Spirits to take upon them the Work
+and Service to which they are appointed, for the Lord's ſake, and for the Bodies ſake, which is
+the Church, to whom it may truly be ſaid, as in the 20th Chapter of <hi>Acts,</hi> Verſ. 28.
+<hi>Take ye heed to the Flock of God, over which the Holy Ghoſt hath made you Overſeers,</hi>
+&amp;c. And ſuch ought to be hearkened to in the diſcharge of their Truſt, as thoſe that
+muſt give an Account to him that called them, and gifted them for their ſeveral Works and
+Services in the Church.</p>
+            <p>And by theſe Ways and Means hath the Lord eſtabliſhed among you a Heavenly Government, and
+built as it were a Hedge about you, that ye may be preſerved from Generation to Generation, a
+People fitted for the Glory that is, and ſhall daily more and more be
+<pb n="6" facs="tcp:31555:4"/>revealed among and upon the Faithful, who delights in that Power that called them
+to be Saints, and to bear a Profeſſion for the holy Name of God againſt the many Names and
+Ways that men in their changeable minds have ſet up, that the Name of the Lord alone may be
+exalted.</p>
+            <p>And <hi>dear Friends</hi> and <hi>Brethren,</hi> I intreat you, that the Conſide<g ref="char:EOLhyphen"/>rations of
+theſe great and weighty things which God hath wrought for you, and among you, may have that deep
+and weighty Influence upon your Souls, that ye may find your ſelves ingaged to anſwer the love
+and mercy of God in your Lives and Converſations, and in all you have to do in this World, that
+ye may ſhew forth the Ho<g ref="char:EOLhyphen"/>nour of God in all things, that the Light which hath ſhined in you may
+ſhine forth through you unto others, who yet ſit in darkneſs, that all men may know by your
+Innocent and Harmleſs Converſati<g ref="char:EOLhyphen"/>ons, and by your cloſe keeping to the Lord, that ye are a
+People who are aſſiſted and helped by a ſupernatural Power, which go<g ref="char:EOLhyphen"/>verns your Wills, and
+ſubjects them to his bleſſed Will, and that guides and orders your Affections, and ſets
+them upon heavenly and divine Objects, and that gives you Power to deny your own private
+Intereſts, where they happen to ſtand in Competition with the In<g ref="char:EOLhyphen"/>tereſt of Truth; for
+theſe, and theſe only, will be found the true Diſciples of our Lord Jeſus Chriſt, who can
+deny themſelves, take up a Croſs daily; and follow him in the guidance of his Regenera<g ref="char:EOLhyphen"/>ting
+Power, which brings Death upon ſelf, and crucifies the old Nature, with its Affections and
+Luſt, and raiſeth up a Birth in you, that hath a holy Will, and deſire to ſerve the Lord,
+and do his Will in the Earth; and ſuch as theſe are Inſtruments in the hand of God for him to
+work by, &amp; to do Works of Righteouſneſs, of Juſtice, of Cha<g ref="char:EOLhyphen"/>rity, &amp; all other the
+Vertues belonging to a <hi>Chriſtian</hi> Life, to the Hon<g ref="char:EOLhyphen"/>our of God, and for the comfort and
+benefit of his Church and People.</p>
+            <p>And all you <hi>dear Friends,</hi> upon whom the Lord hath laid a Care for his Honour, and for
+the Proſperity of the Truth, and gathered you into the good Order of the Goſpel, to meet
+together to ma<g ref="char:EOLhyphen"/>nage the Affairs thereof; Take heed that you have a ſingle Eye to the Lord, to do
+the Lord's buſineſs in the leadings of his Spirit, which is but one, and brings all (that are
+given up to be governed by it) to be of one Mind and Heart, at leaſt in the general purpoſe and
+ſervice of thoſe Meetings; although through the diverſity of Exerciſes, and the ſeveral
+degrees of growth among the Brethren,
+<pb n="7" facs="tcp:31555:4"/>not every one may not ſee or underſtand alike in every matter, at the firſt
+propounding of it; yet this makes no breach of the Unity, nor hinders the Brotherly-kindneſs, but
+puts you often upon an Exer<g ref="char:EOLhyphen"/>ciſe, and an inward travailing to feel the pure peaceable Wiſdom
+that is from above, to open among you, and every ones Ear is open to it, in whomſoever it
+ſpeaks, and thereby a ſence of Life is given in the Meeting, to which all that are of a
+ſimple and tender mind, joyn and agree: But if any among you ſhould be contrary minded in the
+management of ſome outward Affair, relating to the Truth, this doth not preſently break the
+Unity that ye have in Chriſt, nor ſhould weaken the Brotherly-Love, ſo long as he keeps
+waiting for an underſtanding from God, to be gathered into the ſame ſence with you, and walks
+with you according to the Law of Charity; ſuch a one ought to be born with, and cheriſhed, and
+the Supplications of your Souls will go up to God for him, that God may reveal it to him, if it be
+his Will, that ſo no difference may be in Underſtanding, ſo far as is neceſſary for the
+good of the Church, no more than there is in matters of Faith and Obedience to God: For my
+<hi>Friends,</hi> it is not of abſolute neceſſity that every Member of the Church ſhould
+have the ſame meaſure of Underſtanding in all things; for then where were the duty of the
+ſtrong bearing with the weak? then where were the Brother of low degree? where would be any
+ſubmitting to them that are ſet over others in the Lord, which all tends to the preſerving
+Unity in the Church, not<g ref="char:EOLhyphen"/>withſtanding the different meaſures, and different growths of the
+Membes thereof; For as the Spirit of the Prophets are ſubject to the Prophets, ſo are the
+Spirits of all that are kept in a true ſub<g ref="char:EOLhyphen"/>jection to the Spirit of Life in themſelves, kept in
+the ſame ſubje<g ref="char:EOLhyphen"/>ction to the ſence of Life given by the ſame Spirit in the Church; and by
+this means we come to know the one Maſter, even Chriſt, and have no room for other Maſters in
+the matter of our obedience to God; and while every one keeps in this true ſubjection, the
+ſweet Concord is known, and the Oyl is not only upon <hi>Aaron's</hi> Head (though it be poured
+on thee) but it reacheth the Skirts of his Garment alſo; and things are kept ſweet and
+ſavoury, and ye love one another from the greateſt to the leaſt in Sincerity, and (as the
+Apoſtle ſaith) <hi>without Diſſimulation;</hi> and this Love excludes all <hi>Whiſperings
+of evil things;</hi> all <hi>Back-biting, Tale-bearing, Grudgings</hi> and <hi>Murmurings;</hi> and
+keeps Friends minds cleane one toward another,
+<pb n="8" facs="tcp:31555:5"/>waiting for every oppertunity to do each other good, and to pre<g ref="char:EOLhyphen"/>ſerve each
+others Reputation; and their Hearts are comforted at the ſight of one another; and in all their
+affairs, both relating to the Church, and to the World, they will be watchful over their own
+Spirits, and keep in the Lords Power, over that nature and ground in themſelves that would be apt
+to take an offence, or conſtrue any Word or Action to a worſe ſence than the ſimplicity
+thereof, or the intention of the other concerned will allow of.</p>
+            <p>And whereas it may often fall out, that among a great many, ſome may have a different
+Apprehenſion of a matter from the reſt of their Brethren, eſpecially in outward or temporal
+things, there ought to be a Chriſtian Liberty maintained for ſuch to expreſs their ſence,
+with freedom of mind, or elſe they will go away burthened; whereas if they ſpeak their minds
+freely and a Friendly and Chriſtian Conference be admitted thereupon, they may be eaſed, and
+oftentimes the Different Apprehenſion of ſuch a one come to be wholly remo<g ref="char:EOLhyphen"/>ved, and his
+underſtanding opened, to ſee as the reſt ſees; for the danger in ſociety doth not lie
+ſo much in that, ſome few may have a differing Apprehenſion in ſome things from the general
+ſence; as it doth in this; namely, when ſuch that ſo differ do ſuffer themſelves to be
+lead out of the bond of Charity, and ſhall labour to impoſe their private ſence upon the
+reſt of their Brethren, and to be offen<g ref="char:EOLhyphen"/>ded and angry if it be not received; this is the Seed of
+Sedition and Strife that hath grown up in too to many, to their own hurt.</p>
+            <p>And therefore my <hi>dear Friends,</hi> be ware of it, and ſeek not to drive a matter one in
+fierceneſs or in anger, nor to take offence into your minds at any time, becauſe what ſeems
+to be clear to you is not pre<g ref="char:EOLhyphen"/>ſently received; but let all things in the Church be propounded
+with an awful Reverence of him that is the Head and Life of it; who hath ſaid, <hi>Where two or
+three are met in my Name, I will be in the midſt of them;</hi> and ſo he is, and may be felt by
+all who keep in his Spirit; but he that follows his own Spirit ſees nothing, as he ought to ſee
+it. Therefore let all beware of their own Spirits and natural Tempers (as they are ſometimes
+called) but let all keep in a gracious Temper, then are ye fit for the ſervice of the Houſe of
+God, whoſe Houſe ye are, as ye keep upon the Foundation that God hath laid; and he will build
+you up, and teach you how to build up one another in him, and as every Member muſt fell Life in
+themſelves, and all from one Head; this Life will not hurt it ſelf in any, but be tender of the
+
+<pb n="9" facs="tcp:31555:5"/>Life in all; for by this one Life of the WORD ye were begotten, &amp; by it ye
+are nouriſhed and made to grow into your ſeveral Services in the Church of God; it is no man's
+learning nor artificial acquire<g ref="char:EOLhyphen"/>ments; its no mans Riches nor Greatneſs in this World; it is no
+man's Elequence &amp; natural Wiſdom that makes him ſit for Government in the Church of
+Chriſt, unleſs he with all his Indowments be ſeaſoned with the Heavenly Salt, and his
+Spirit ſubjected, and his Gifts paſs through the Fire of God's Altar, a Sacrifice to his
+Praiſe and Ho<g ref="char:EOLhyphen"/>nour, that ſo Self be crucified and baptized in Death, and the Gifts made uſe
+of in the power of the Reſurrection of the Life of Jeſus in him; and when this great Work is
+wrought in a man, than all his Gifts and Qualifications are ſanctified, and they are made uſe
+of for the good of the Body, which is the Church, and are as Ornaments and Jewels, which ſerves
+for the Joy and Comfort of all, who are partakers of the ſame divine Fellowſhip of Life in
+Chriſt Jeſus our Lord; and thus comes many to be fitted and fur<g ref="char:EOLhyphen"/>niſhed to good Words, and to
+good Works, which are brought forth in their due Seaſons, for Edification, and building up the
+weak, and for repairing the decayed Places, and alſo for defence of them that are feeble, that
+hurtful things may not come near them.</p>
+            <p>Oh <hi>Friends,</hi> great is the Work the Lord hath called you to, and is a ſitting you for,
+who innocently wait upon him; and the Lord hath opened my Heart unto you, and laid it upon me, to
+exhort and beſeech you to have a care that ye quit your ſelves as ye ought, in what God
+re<g ref="char:EOLhyphen"/>quires of ye; and for the more particular expreſſing what lies before me in the matter, I
+ſhall ſet down a few perticular Obſervations for your benefit and advantage; and my Soul's
+deſire is, that my labour of Love may have a good Effect in all your Boſoms, that God may be
+honoured thereby. And Friends, ye know the chief Buſineſs, to which ye are called in your
+perticular Men and Womens Meetings is under theſe two Heads, Juſtice and Charity; the firſt,
+to ſee that every one hath right done him, and the other to take care there be nothing lacking to
+the Comfort of the Poor that are made partakers of the ſame Faith with you.</p>
+            <p>And when ye meet about theſe things, keep the Lord in your Eye, and wait to feel his Power to
+guide and direct you, to ſpeak and behave your ſelves in the Church of God, as becomes the
+peace<g ref="char:EOLhyphen"/>able
+<pb facs="tcp:31555:6"/>Goſpel: And beware of all brittleneſs of Spirit, and ſharp re<g ref="char:EOLhyphen"/>flection upon each
+others words; for that will kindle up heats, and create a falſe Fire, and when one takes a
+liberty of a ſharp word ſpoken out of the true fear and tenderneſs, it oftentimes becomes a
+Temptation to another, and if he hath not a great care it will draw him out alſo, and then the
+firſt is guilty of two Evils, firſt being led into a Temptation, and then ſecondly, he
+becomes a Temp<g ref="char:EOLhyphen"/>ter to others, therefore all had need to be upon their Watch, nei<g ref="char:EOLhyphen"/>ther to tempt, nor
+be tempted; and let none think it a ſufficient excuſe for them that they were provoked; for we
+are as anſwer<g ref="char:EOLhyphen"/>able to God for every evil Word ſpoken upon Provocation, as without Provocation;
+for, for that end hath the Lord revealed his Power to us, to keep and preſerve us in his Fear and
+Counſel in the time of our Provocations; and therefore if any man through want of watchfulneſs,
+ſhould be overtaken with Heat or Paſſion, <hi>a ſoft Anſwer appeaſeth Wrath,</hi>
+ſaith the Wiſe Man; and therefore ſuch a time is fitteſt for a ſoft Anſwer, leſt the
+Enemy prevail on any to their hurt, and to the grief and trouble of their Brethren; for it is the
+proper duty of Watch-men and Overſeers, to ſpare the Flock, that is, let nothing come nigh them
+that will hurt them, and wound and grieve them; nay, the good Apoſtle was ſo careful over the
+Flock of Believers, that if there were any doubtful mat<g ref="char:EOLhyphen"/>ters to be diſputed of, he would not have
+them that were weak in the Faith at ſuch Diſputes, much leſs ought them that are weak to
+ſee thoſe that are ſtrong deſcend from their ſtrength, and go into the weakneſs where
+they are not able to bear, for that is cer<g ref="char:EOLhyphen"/>tainly the weak that cannot bear: thoſe that really
+live in the Strength and Power, they can bear even Burdens for them that cannot bear their own. The
+Apoſtle in the place before menti<g ref="char:EOLhyphen"/>oned, when he ſent for the Elders of <hi>Epheſus</hi> to
+<hi>Miletus,</hi> and left a Charge with them, before he ſaid, <hi>Take heed to the Flock of
+God;</hi> he ſaid, <hi>Take ye heed to your ſelves:</hi> And indeed we are none of us like to
+diſcharge our ſelves well towards others, but by taking heed to our ſelves, to be kept in
+that ſober innocent frame of Spirit, which the Truth calls for.</p>
+            <p>In the next place, my <hi>dear Friends,</hi> when ye are called upon in point of Juſtice, to
+give a Sentence of right between Friend and Friend; take heed that neither Party get
+poſſeſſion of your Spirit
+<pb n="11" facs="tcp:31555:6"/>aforehand, by any way or means whatſoever, or obtain any Word or Sentence from
+you in the abſence of the other party, he not being yet heard: there is nothing more comly among
+men than Impar<g ref="char:EOLhyphen"/>tial Judgment; Judgment is a Seat where Intereſt, nor Affection, nor former
+Kindneſſes may come; we may make no difference of the worthineſs or unworthineſs of
+Perſons in Judgment, as we may in Charity; but in Judgment, if a good man, being miſtaken, hath
+a bad caſe, or a bad man a good caſe, according to his caſe muſt he have Sentence: It was a
+good ſaying, <hi>He that judgeth among Men, judgeth for the Lord, and he will repay it.</hi>
+Therefore let all be done as unto the Lord, and as ye are willing to anſwer it in his preſence;
+and although ſome may for a time be diſcontent there<g ref="char:EOLhyphen"/>at, yet in time God ſhall clear up your
+Innocency as the Sun at Noon-Day; and they that kick at ſound Judgment, will find but hard work
+of it, they do but kick againſt that which will prick them; and however, ſuch through their
+wilfulneſs, and their abound<g ref="char:EOLhyphen"/>ing in their own ſence may hurt themſelves, yet you will be
+pre<g ref="char:EOLhyphen"/>ſerved, and enjoy your Peace and Satisfaction in the diſcharge of your Conſciences in the
+ſight of God.</p>
+            <p>And as concerning practical <hi>Charity,</hi> ye know its ſupported by Liberality, and where
+Liberality ceaſeth, Charity waxeth cold, yea, ſo far ceaſeth; where there is no Contribution,
+there is no Diſtri<g ref="char:EOLhyphen"/>bution; where the one is ſparing, the other is ſparing; and there<g ref="char:EOLhyphen"/>fore let
+every one nouriſh Charity in the Root, that is, keep a Libe<g ref="char:EOLhyphen"/>ral Mind, a heart that looks upon the
+Subſtance that is given him, as really beſtowed upon him for the ſupport of Charity, as for
+the ſupport of his own Body; and where People are of this mind, they will have a care of keeping
+back any of God's part, for he hath in all Ages in a moſt ſingular manner eſpouſed the
+Caſe of the Poor, the Widow and Fatherleſs, and hath often ſignified by his Prophets and
+Miniſters, a ſpecial charge upon Rich Men that had this World's Goods, that they ſhould look
+to it that they were faithful Stewards of what they poſſeſt, and that they might be found in
+good Works, and might not ſuffer their Hearts to ſo cleave to un<g ref="char:EOLhyphen"/>certain Richs, as to neglect
+the Service God had given them the things of this Life for, either to give them up when called for
+in a Teſtimony for his worthy Name, or to Communicate of them to thoſe that were in
+neceſſity.</p>
+            <pb n="12" facs="tcp:31555:7"/>
+            <p>Now as concerning the neceſſities of the Poor, there is great need of Wiſdom when ye meet
+together about that Affair; for as I ſaid before, tho' the worthyneſs or unworthyneſs of
+Perſons is, not to be conſidered in Judgment, yet in this it is; and you will find ſome that
+God hath made Poor, and ſome that have made themſelves Poor; and ſome that others have made
+Poor, which muſt all have their ſeveral Conſiderations, in which you ought to labour to be
+unamious, and not one to be taken up with an affection to one Perſon more then another, but every
+one to Love every one in the univerſal Spirit, and then to deal out that Love in the outward
+manifeſtations thereof, according to the meaſure that the Lord in his Wiſdom working in you
+ſhall meaſure forth to them.</p>
+            <p>And as to thoſe who by <hi>Sickneſs, Lameneſs, Age</hi> or other Impo<g ref="char:EOLhyphen"/>tency, are brought
+into Poverty by the Hand of Providence; theſe are your peculiar care and objects pointed out to
+you, to beſtow your Charity upon, for by them the Lord calls for it; for as the Earth is the
+Lord's and the fulneſs of it, he hath by his Soveraign Power commanded in every Diſpenſation,
+that a part of what we injoy from him, ſhould be thus imployed; The <hi>Iſraelites</hi> were
+not to reap the Corners of their Feilds, nor to gather the Gleanings of the Corn nor Vintage, it
+was for the Poor; and in the time of the Goſpel, they were to lay a part on the <hi>firſt
+Day</hi> of the Week, a part of what God had bleſſed them with, for the Relief of thoſe that
+were in Neceſſity; nay, they did not Confine themſelves in their Charity to their own
+Meetings; but had an univerſal Eye through the whole Church of Chriſt, and upon extraordinary
+occa<g ref="char:EOLhyphen"/>ſions ſent their Benevolence to relieve the Saints at <hi>Jeruſalem</hi> in a time of
+need; and all that keep in the guidance of the ſame Univer<g ref="char:EOLhyphen"/>ſal Spirit, will make it their
+Buſineſs to be found in the ſame Practice of <hi>Charity</hi> and <hi>Good Works,</hi> to do
+Good, and to Commu<g ref="char:EOLhyphen"/>nicate? <hi>Forget not,</hi> ſaith the Apoſtle: So they that forget not this
+<hi>Chriſtian duty;</hi> will find out the Poor's part in the Corners and Gleanings of the
+Profits of their Trades and Merchandizings, as well as the old <hi>Iſraelite</hi> did the Corners
+and Gleanings of his Field; and in the diſtribution of it, will have a regard to comfort the
+Bowels of ſuch who are by the Divine Providence of God put out of a capacity of Injoying thoſe
+outward Comforts of Health, and Strength, and Plenty, which others do injoy; for while they are
+<pb n="13" facs="tcp:31555:7"/>partakers of the ſame Faith, and walks in the way of Righteouſneſs with
+you, ſubmitting themſelves patiently to the diſpenſation of Gods providence towards them;
+they are of your Houſhold, and under your care, both to viſit, and to relieve as Members of one
+Body, of which Chriſt Jeſus is Head; and he that giveth to ſuch Poor, lendeth to the Lord,
+and he will repay it.</p>
+            <p>But there is another ſort of Poor, who make themſelves poor through their ſloth and
+careleſneſs, and ſometimes by their wil<g ref="char:EOLhyphen"/>fulneſs, being heady and high-minded, and taking
+things in hand that are more than they can manage, and make a flouriſh for a ſeaſon, and then
+through their own neglects are plunged down into great Poverty; theſe are a ſort the Primitive
+Churches began to be troubled withal in the early days of the Goſpel; for the Apoſtle took
+notice of ſome that would not work at all, and ſharp<g ref="char:EOLhyphen"/>ly reproved them, and ſaid, <hi>They
+that would not work, ſhould not eat;</hi> and theſe are commonly a ſort of Buſie-bodies,
+and meddlers with others matters, while they neglect their own, and runs into a worſe way than
+the Unbelievers, while they profeſs to be Belie<g ref="char:EOLhyphen"/>vers, yet do not take a due care for thoſe of
+their own Houſhold.</p>
+            <p>The Charity that is proper to ſuch, is to give them Admonition and Reproof, and to Convince
+them of their Sloth and Neglience; and if they ſubmit to your Reproof, and are willing to amend,
+then care ought to be taken to help them into a way and means to ſup<g ref="char:EOLhyphen"/>port themſelves; and
+ſometimes by a little help in this kind, ſome have been reclaimed from the Snares of their
+Soul's Enemy: But if they will not receive your wholſom Counſel and Admonitions, but kick
+againſt it, either in their Words or Actions, Friends will be clear of ſuch in the ſight of
+God; for its unreaſonable to feed them that will not be ruled by you, they break the obligation
+of Society by their diſorderly walking; for our Communion doth not ſtand only in frequenting
+Meetings, and hearing Truth preach<g ref="char:EOLhyphen"/>ed, but in anſwering the bleſſed Principle of Truth, in
+Life and Converſation, and therein both the Rich and the Poor have fellow<g ref="char:EOLhyphen"/>ſhip one with
+another.</p>
+            <p>There is another ſort that are made Poor by the Oppreſſions and Cruelties of others:
+Theſe oppreſſed Poor cries loud in the Ears of the Almighty, and he will in his own time
+Avenge their Caſe; but in the mean time there is a tenderneſs to be extended
+<pb n="14" facs="tcp:31555:8"/>to them, not knowing how ſoon it may be our turn, and if there be need of
+Counſel and Advice, or if any Applications can be made to any that are able to deliver them from
+the Oppreſſors in ſuch Caſes, let all that are capable be ready and willing to adviſe,
+relieve and help the diſtreſſed; and this is an acceptable Work of Cha<g ref="char:EOLhyphen"/>rity, and a great
+comfort to ſuch in their ſharp Afflictions, and their Souls will bleſs the Inſtruments of
+their Eaſe and Comfort.</p>
+            <p>And my <hi>Dear Friends,</hi> as God hath honoured you with ſo high and holy a calling to be
+his Servants and Workmen in this his great and notable Day, and to work together in his Power, in
+ſetting forth his Praiſe and Glory in the Earth, and gathering together in one the ſcattered
+Seed in this and other Nations; Oh! let the dignity of your calling, provoke and incourage you to
+be diligent Attenders upon his Work and Service you are called to, and let not your concerns in the
+World draw you from obſerving the times and ſeaſons appointed to meet together; but you that
+are Elder ſet a good Example to the Younger ſort, by a due obſervation of the Hour appointed,
+that they that come firſt one time may not by their long ſtaying for others be diſcouraged,
+ſo as perhaps they may be laſt another time; but when the time is come, leave your buſineſs
+for the Lord's Work, and he will take care your buſineſs ſhall not ſuffer, but will add a
+Bleſſing upon it, which will do more for you then the time can do that may be ſaved out of
+his Service.</p>
+            <p>And when ye have to do with perverſe, and froward or diſor<g ref="char:EOLhyphen"/>derly Perſons, whom ye have
+occaſion to Reprove and to Re<g ref="char:EOLhyphen"/>buke for the Truth's ſake, and you find them ſtout and high,
+and reflecting upon ye, then is a time for the Lamb's meekneſs to ſhine forth, and for you to
+feel your Authority in the Name of Chriſt to deal with ſuch a one, and to wait for the pure and
+peace<g ref="char:EOLhyphen"/>able Wiſdom from above, to bring down and confound the earth<g ref="char:EOLhyphen"/>ly Wiſdom. And in this frame
+of mind you labour together to pull the intangled Sheep out of the Thicket, and to reſtore that
+which is gone aſtray, to the Fold again, if you can; but if you cannot, yet ye ſave your
+ſelves from the Guilt of his Blood; and if ſuch do periſh, his Blood will be on his own Head:
+But on the other hand, if ye ſuffer their perverſe Spirits to enter, and their Provocations to
+have a place in you, ſo as to kindle your Spirits into a Heat and Paſſion, then you get a
+hurt, and are uncapable
+<pb n="15" facs="tcp:31555:8"/>to do them any good; but Words will break out that will need Re<g ref="char:EOLhyphen"/>pentance, and
+the Wicked will be ſtiffened and ſtrengthened there<g ref="char:EOLhyphen"/>by, and you miſs the Service that you did
+really intend. There<g ref="char:EOLhyphen"/>fore dearly Beloved, keep upon your Watch, keep on your ſpiri<g ref="char:EOLhyphen"/>tual Armour;
+keep your Feet ſhod with the preparation of the Goſpel of Peace, and the God of Peace will be
+with you, and crown your Indeavours with good ſucceſs, to your Joy and Com<g ref="char:EOLhyphen"/>fort, and will bring
+up his Power over your Adverſaries and Op<g ref="char:EOLhyphen"/>poſers more and more, to which many ſhall bow and
+bend in your ſight; and will bring Shame and Confuſion upon the Rebel<g ref="char:EOLhyphen"/>lions, who harden their
+Heart and ſtiffen their Necks againſt the Lord, and his Chriſt, and Kingdom, which he will
+exalt in the Earth, notwithſtanding all that Satan, and all his Evil Inſtru<g ref="char:EOLhyphen"/>ments can do to
+hinder the growth and progreſs of his bleſſed Truth; for of the increaſe of the Government,
+and of the Peace of the Kingdom of Chriſt there ſhall be no end.</p>
+            <p>And now <hi>Friends,</hi> I having cleared my Conſcience of what lay upon me for ſome time,
+to write unto you by way of Remem<g ref="char:EOLhyphen"/>brance, and as the Exhortation of my Life unto you, I remain
+tra<g ref="char:EOLhyphen"/>vailing in Spirit for the well-fare of <hi>Zion:</hi> And although the out<g ref="char:EOLhyphen"/>ward man decays, yet
+in the inward man I am comforted, in behold<g ref="char:EOLhyphen"/>ing daily the great things that our God hath done, and
+is ſtill doing for them that have their ſole dependance upon him. So commit<g ref="char:EOLhyphen"/>ting you to the
+Grace of God, for your directer and preſerver, in theſe and all your ſeveral Services unto
+which God hath called you, that by the operations of his mighty Power ye may be kept blameleſs
+and unſpotted of the World, to his Honour and your Comfort, and to the univerſal Comfort and
+Edification of the Church, that ſo Praiſes and Thanksgiving may fill your Hearts and Mouths,
+your Families and your Meetings; for he is worthy, who is our Tower, our Support, the Lord of
+Hoſt, the King of Saints, to whom be Glory, Honour and Renown through this and all Generations
+forever and ever; <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>the 15th of the 7th Month, 1690.</date>
+               </dateline>
+               <signed>
+                  <hi>From your Friend, and Brother in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+Commu<g ref="char:EOLhyphen"/>nion and Fellowſhip of the Goſpel of Peace and Purity,</hi> Stephen
+Criſp.</signed>
+            </closer>
+            <pb facs="tcp:31555:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
